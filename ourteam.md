@@ -3,8 +3,7 @@ layout: page
 title: Our Team
 permalink: /ourteam/
 ---
-
-Some information about you!
+About Us
 
 ### More Information
 
