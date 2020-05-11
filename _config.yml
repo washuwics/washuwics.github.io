@@ -8,7 +8,9 @@ name: Women in Computer Science at Washington University in St. Louis
 description: Bolster. Support. Empower.
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/washuwics/washuwics.github.io/master/images/wicsimg.png
+avatar: images/wicsimg.png
+  
+# https://raw.githubusercontent.com/washuwics/washuwics.github.io/master/images/wicsimg.png
 
 #
 # Flags below are optional
