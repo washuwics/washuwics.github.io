@@ -54,6 +54,16 @@ permalink: /ourteam/
     <img src="../images/deepthikailash.jpg" alt='dirofcomm' class='exec' /> 
     <br><em>Deepthi Kailash</em>
   </div>
+  <div class="column">
+    <strong>Co-Director of Marketing</strong><br>
+    <img src="../images/deepthikailash.jpg" alt='dirofmarketing' class='exec' /> 
+    <br><em>Stephanie Chui</em>
+  </div>
+  <div class="column">
+    <strong>Co-Director of Marketing</strong><br>
+    <img src="../images/deepthikailash.jpg" alt='dirofmarketing' class='exec' /> 
+    <br><em>Olivia Kwon</em>
+  </div>
 </div>
 
 - President: Katie Lund
