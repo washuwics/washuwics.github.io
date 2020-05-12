@@ -3,12 +3,4 @@ layout: page
 title: Contact Us
 permalink: /contact/
 ---
-Contact Us
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+To contact WiCS, please email [wics@su.wustl.edu](mailto:wics@su.wustl.edu).

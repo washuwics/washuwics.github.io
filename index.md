@@ -27,12 +27,6 @@ Welcome to our new WiCS Executive Board!
 - Co-Director of Marketing: Stephanie Chui
 - Co-Director of Marketing: Olivia Kwon 
 
-
-#### Contact
-
-- To contact WiCS, please email wics@su.wustl.edu.
-
-
 ### Current Announcements:
 #### GHC Application!
 
