@@ -38,7 +38,7 @@ permalink: /ourteam/
   </div>
   <div class="column">
     <strong>Director of Professional Development</strong><br>
-    <img src="../images/juliadai.jpg" alt='dirofprofdev' class='exec' />
+    <img src="../images/avatar.png" alt='dirofprofdev' class='exec' />
     <br><em>Julia Dai</em>
   </div>
   <div class="column">
@@ -61,22 +61,7 @@ permalink: /ourteam/
   </div>
   <div class="column">
     <strong>Co-Director of Marketing</strong><br>
-    <img src="" alt='dirofmarketing' class='exec' /> 
+    <img src="../images/avatar.png" alt='dirofmarketing' class='exec' /> 
     <br><em>Olivia Kwon</em>
   </div>
 </div>
-
-- President: Katie Lund
-- Internal Vice President: Julia Dai
-- External Vice President: Rachana Reddy
-- Treasurer/Director of Finance: Priyanka Iyer 
-- Director of Events: Katie Legan
-- Director of Professional Development
-- Director of Corporate Relations: Shruthi Ramalingam
-- Director of Communications: Deepthi Kailash
-- Co-Director of Marketing: Stephanie Chui
-- Co-Director of Marketing: Olivia Kwon 
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)

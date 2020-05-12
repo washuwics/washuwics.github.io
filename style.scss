@@ -298,10 +298,11 @@ img[class=exec] { height: 200px; width: 200px; margin-top: 1em;}
   display: inline-block;
   font-size: 14px;
   text-align: center;
+  margin: 1em;
   strong {font-size: 13px; color: rgb(202, 104, 122);}
 }
 .row {
-  align-items: center;
+ text-align: center;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
