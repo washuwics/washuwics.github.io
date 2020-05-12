@@ -56,12 +56,12 @@ permalink: /ourteam/
   </div>
   <div class="column">
     <strong>Co-Director of Marketing</strong><br>
-    <img src="../images/deepthikailash.jpg" alt='dirofmarketing' class='exec' /> 
+    <img src="../images/stephaniechui.jpg" alt='dirofmarketing' class='exec' /> 
     <br><em>Stephanie Chui</em>
   </div>
   <div class="column">
     <strong>Co-Director of Marketing</strong><br>
-    <img src="../images/deepthikailash.jpg" alt='dirofmarketing' class='exec' /> 
+    <img src="" alt='dirofmarketing' class='exec' /> 
     <br><em>Olivia Kwon</em>
   </div>
 </div>
