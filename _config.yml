@@ -8,9 +8,8 @@ name: WashU Women in Computer Science
 description: Bolster. Support. Empower.
 theme: jekyll-theme-minimal
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: images/wicsimg.png
-  
-# https://raw.githubusercontent.com/washuwics/washuwics.github.io/master/images/wicsimg.png
+avatar: ../images/wicsimg.png
+# Original link: https://raw.githubusercontent.com/washuwics/washuwics.github.io/master/images/wicsimg.png
 
 #
 # Flags below are optional
