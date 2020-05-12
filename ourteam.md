@@ -43,7 +43,7 @@ permalink: /ourteam/
   </div>
   <div class="column">
     <strong>Director of Corporate Relations</strong><br>
-    <img src="../images/rachanareddy.jpg" alt='dirofcorprel' class='exec' />
+    <img src="../images/shruthiramalingam.jpg" alt='dirofcorprel' class='exec' />
     <br><em>Shruthi Ramalingam</em>
   </div>
 </div>
@@ -51,7 +51,7 @@ permalink: /ourteam/
 <div class="row">
   <div class="column">
     <strong>Director of Communications</strong><br>
-    <img src="../images/priyankaiyer.png" alt='treasurer' class='exec' /> 
+    <img src="../images/deepthikailash.jpg" alt='dirofcomm' class='exec' /> 
     <br><em>Deepthi Kailash</em>
   </div>
 </div>
