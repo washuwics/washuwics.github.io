@@ -13,20 +13,6 @@ Washington University Women in Computer Science’s mission is to create a welco
 - WiCS also connects members with exciting social events, like welcome-back socials, a WiCS&Mix outing, and a mentorship day.
 
 
-#### Executive Board
-
-Welcome to our new WiCS Executive Board!
-- President: Katie Lund
-- Internal Vice President: Julia Dai
-- External Vice President: Rachana Reddy
-- Treasurer/Director of Finance: Priyanka Iyer 
-- Director of Events: Katie Legan
-- Director of Professional Development
-- Director of Corporate Relations: Shruthi Ramalingam
-- Director of Communications: Deepthi Kailash
-- Co-Director of Marketing: Stephanie Chui
-- Co-Director of Marketing: Olivia Kwon 
-
 ### Current Announcements:
 #### GHC Application!
 
