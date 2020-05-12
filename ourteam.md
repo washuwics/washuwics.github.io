@@ -5,6 +5,14 @@ permalink: /ourteam/
 ---
 
 ### Welcome to our new WiCS Executive Board!
+
+<img src="../images/katielund.jpg" alt='president' class='exec' />
+<img src="../images/juliadai.jpg" alt='internalvp' class='exec' />
+<img src="../images/rachanareddy.jpg" alt='externalvp' class='exec' />
+<img src="../images/priyankaiyer.png" alt='treasurer' class='exec' /> 
+<em class='exec'>President: Katie Lund</em> <em class='exec'>Internal Vice President: Julia Dai</em>
+
+
 - President: Katie Lund
 - Internal Vice President: Julia Dai
 - External Vice President: Rachana Reddy
