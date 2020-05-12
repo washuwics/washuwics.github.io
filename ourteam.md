@@ -4,14 +4,57 @@ title: Executive Board
 permalink: /ourteam/
 ---
 
-### Welcome to our new WiCS Executive Board!
+<div class="row">
+  <div class="column">
+    <strong>President</strong><br>
+    <img src="../images/katielund.jpg" alt='president' class='exec' />
+    <br><em>Katie Lund</em>
+  </div>
+</div>
 
-<img src="../images/katielund.jpg" alt='president' class='exec' />
-<img src="../images/juliadai.jpg" alt='internalvp' class='exec' />
-<img src="../images/rachanareddy.jpg" alt='externalvp' class='exec' />
-<img src="../images/priyankaiyer.png" alt='treasurer' class='exec' /> 
-<em class='exec'>President: Katie Lund</em> <em class='exec'>Internal Vice President: Julia Dai</em>
+<div class="row">
+  <div class="column">
+    <strong>Internal Vice President</strong><br>
+    <img src="../images/juliadai.jpg" alt='internalvp' class='exec' />
+    <br><em>Julia Dai</em>
+  </div>
+  <div class="column">
+    <strong>External Vice President</strong><br>
+    <img src="../images/rachanareddy.jpg" alt='externalvp' class='exec' />
+    <br><em>Rachana Reddy</em>
+  </div>
+  <div class="column">
+    <strong>Director of Finance</strong><br>
+    <img src="../images/priyankaiyer.png" alt='treasurer' class='exec' /> 
+    <br><em>Priyanka Iyer</em>
+  </div>
+</div>
 
+<div class="row">
+  <div class="column">
+    <strong>Director of Events</strong><br>
+    <img src="../images/katielegan.jpg" alt='dirofevents' class='exec' />
+    <br><em>Katie Legan</em>
+  </div>
+  <div class="column">
+    <strong>Director of Professional Development</strong><br>
+    <img src="../images/juliadai.jpg" alt='dirofprofdev' class='exec' />
+    <br><em>Julia Dai</em>
+  </div>
+  <div class="column">
+    <strong>Director of Corporate Relations</strong><br>
+    <img src="../images/rachanareddy.jpg" alt='dirofcorprel' class='exec' />
+    <br><em>Shruthi Ramalingam</em>
+  </div>
+</div>
+
+<div class="row">
+  <div class="column">
+    <strong>Director of Communications</strong><br>
+    <img src="../images/priyankaiyer.png" alt='treasurer' class='exec' /> 
+    <br><em>Deepthi Kailash</em>
+  </div>
+</div>
 
 - President: Katie Lund
 - Internal Vice President: Julia Dai

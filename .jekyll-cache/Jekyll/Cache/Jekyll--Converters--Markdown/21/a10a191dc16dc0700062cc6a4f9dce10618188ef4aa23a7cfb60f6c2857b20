@@ -1,0 +1,40 @@
+I"×<h3 id="welcome-to-our-new-wics-executive-board">Welcome to our new WiCS Executive Board!</h3>
+
+<p><img src="../images/katielund.jpg" alt="president" class="exec" />
+<img src="../images/juliadai.jpg" alt="internalvp" class="exec" />
+<img src="../images/rachanareddy.jpg" alt="externalvp" class="exec" />
+<img src="../images/priyankaiyer.png" alt="treasurer" class="exec" /></p>
+<div class="row">
+  <div class="column">
+    <img src="../images/katielund.jpg" alt="president" class="exec" />
+    President: Katie Lund
+  </div>
+  <div class="column">
+    <img src="../images/juliadai.jpg" alt="internalvp" class="exec" />
+    Internal Vice President: Julia Dai
+  </div>
+  <div class="column">
+    <img src="../images/rachanareddy.jpg" alt="externalvp" class="exec" />
+  </div>
+  <div class="column">
+    <img src="../images/priyankaiyer.png" alt="treasurer" class="exec" /> 
+  </div>
+</div>
+
+<ul>
+  <li>President: Katie Lund</li>
+  <li>Internal Vice President: Julia Dai</li>
+  <li>External Vice President: Rachana Reddy</li>
+  <li>Treasurer/Director of Finance: Priyanka Iyer</li>
+  <li>Director of Events: Katie Legan</li>
+  <li>Director of Professional Development</li>
+  <li>Director of Corporate Relations: Shruthi Ramalingam</li>
+  <li>Director of Communications: Deepthi Kailash</li>
+  <li>Co-Director of Marketing: Stephanie Chui</li>
+  <li>Co-Director of Marketing: Olivia Kwon</li>
+</ul>
+
+<h3 id="contact-me">Contact me</h3>
+
+<p><a href="mailto:email@domain.com">email@domain.com</a></p>
+:ET
