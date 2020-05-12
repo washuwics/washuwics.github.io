@@ -202,16 +202,17 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $georgia;
-  font-weight: 300;
-  font-size: 25px;
-  letter-spacing: 1px;
+  font-family: $opensans;
+  font-weight: 900;
+  font-size: 24px;
+  letter-spacing: .5px;
 }
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: rgb(206, 118, 134);
   font-size: 16px;
+  font-weight: bold;
 
   @include mobile {
     margin: 3px 0;
