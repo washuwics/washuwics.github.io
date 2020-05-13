@@ -7,61 +7,61 @@ permalink: /ourteam/
 <div class="row">
   <div class="column">
     <strong>President</strong><br>
-    <img src="../images/katielund.jpg" alt='president' class='exec' />
-    <br><em>Katie Lund</em>
+    <img src="{{ site.exec.president.file_path }}" alt='president' class='exec' />
+    <br><em>{{ site.exec.president.name }}</em>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
     <strong>Internal Vice President</strong><br>
-    <img src="../images/juliadai.jpg" alt='internalvp' class='exec' />
-    <br><em>Julia Dai</em>
+    <img src="{{ site.exec.internalvp.file_path }}" alt='internalvp' class='exec' />
+    <br><em>{{ site.exec.internalvp.name }}</em>
   </div>
   <div class="column">
     <strong>External Vice President</strong><br>
-    <img src="../images/rachanareddy.jpg" alt='externalvp' class='exec' />
-    <br><em>Rachana Reddy</em>
+    <img src="{{ site.exec.externalvp.file_path }}" alt='externalvp' class='exec' />
+    <br><em>{{ site.exec.externalvp.name }}</em>
   </div>
   <div class="column">
     <strong>Director of Finance</strong><br>
-    <img src="../images/priyankaiyer.png" alt='treasurer' class='exec' /> 
-    <br><em>Priyanka Iyer</em>
+    <img src="{{ site.exec.treasurer.file_path }}" alt='treasurer' class='exec' /> 
+    <br><em>{{ site.exec.treasurer.name }}</em>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
     <strong>Director of Events</strong><br>
-    <img src="../images/katielegan.jpg" alt='dirofevents' class='exec' />
-    <br><em>Katie Legan</em>
+    <img src="{{ site.exec.dirofevents.file_path }}" alt='director of events' class='exec' />
+    <br><em>{{ site.exec.dirofevents.name }}</em>
   </div>
   <div class="column">
     <strong>Director of Professional Development</strong><br>
-    <img src="../images/marissakalkar.jpg" alt='dirofprofdev' class='exec' />
-    <br><em>Marissa Kalkar</em>
+    <img src="{{ site.exec.dirofprofdev.file_path }}" alt='director of professional development' class='exec' />
+    <br><em>{{ site.exec.dirofprofdev.name }}</em>
   </div>
   <div class="column">
     <strong>Director of Corporate Relations</strong><br>
-    <img src="../images/shruthiramalingam.jpg" alt='dirofcorprel' class='exec' />
-    <br><em>Shruthi Ramalingam</em>
+    <img src="{{ site.exec.dirofcorprel.file_path }}" alt='director of corporate relations' class='exec' />
+    <br><em>{{ site.exec.dirofcorprel.name }}</em>
   </div>
 </div>
 
 <div class="row">
   <div class="column">
     <strong>Director of Communications</strong><br>
-    <img src="../images/deepthikailash.jpg" alt='dirofcomm' class='exec' /> 
-    <br><em>Deepthi Kailash</em>
+    <img src="{{ site.exec.dirofcomm.file_path }}" alt='director of communications' class='exec' /> 
+    <br><em>{{ site.exec.dirofcomm.name }}</em>
   </div>
   <div class="column">
     <strong>Co-Director of Marketing</strong><br>
-    <img src="../images/stephaniechui.jpg" alt='dirofmarketing' class='exec' /> 
-    <br><em>Stephanie Chui</em>
+    <img src="{{ site.exec.dirofmark1.file_path }}" alt='director of marketing' class='exec' /> 
+    <br><em>{{ site.exec.dirofmark1.name }}</em>
   </div>
   <div class="column">
     <strong>Co-Director of Marketing</strong><br>
-    <img src="../images/avatar.jpg" alt='dirofmarketing' class='exec' /> 
-    <br><em>Olivia Kwon</em>
+    <img src="{{ site.exec.dirofmark2.file_path }}" alt='director of marketing' class='exec' /> 
+    <br><em>{{ site.exec.dirofmark2.name }}</em>
   </div>
 </div>

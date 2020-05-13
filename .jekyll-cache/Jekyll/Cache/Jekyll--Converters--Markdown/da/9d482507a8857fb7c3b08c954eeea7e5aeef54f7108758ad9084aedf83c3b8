@@ -1,4 +1,4 @@
-I"æ<div class="row">
+I"7<div class="row">
   <div class="column">
     <strong>President</strong><br />
     <img src="../images/katielund.jpg" alt="president" class="exec" />
@@ -27,17 +27,17 @@
 <div class="row">
   <div class="column">
     <strong>Director of Events</strong><br />
-    <img src="../images/katielegan.jpg" alt="dirofevents" class="exec" />
+    <img src="../images/katielegan.jpg" alt="director of events" class="exec" />
     <br /><em>Katie Legan</em>
   </div>
   <div class="column">
     <strong>Director of Professional Development</strong><br />
-    <img src="../images/marissakalkar.jpg" alt="dirofprofdev" class="exec" />
+    <img src="../images/marissakalkar.jpg" alt="director of professional development" class="exec" />
     <br /><em>Marissa Kalkar</em>
   </div>
   <div class="column">
     <strong>Director of Corporate Relations</strong><br />
-    <img src="../images/shruthiramalingam.jpg" alt="dirofcorprel" class="exec" />
+    <img src="../images/shruthiramalingam.jpg" alt="director of corporate relations" class="exec" />
     <br /><em>Shruthi Ramalingam</em>
   </div>
 </div>
@@ -45,17 +45,17 @@
 <div class="row">
   <div class="column">
     <strong>Director of Communications</strong><br />
-    <img src="../images/deepthikailash.jpg" alt="dirofcomm" class="exec" /> 
+    <img src="../images/deepthikailash.jpg" alt="director of communications" class="exec" /> 
     <br /><em>Deepthi Kailash</em>
   </div>
   <div class="column">
     <strong>Co-Director of Marketing</strong><br />
-    <img src="../images/stephaniechui.jpg" alt="dirofmarketing" class="exec" /> 
+    <img src="../images/stephaniechui.jpg" alt="director of marketing" class="exec" /> 
     <br /><em>Stephanie Chui</em>
   </div>
   <div class="column">
     <strong>Co-Director of Marketing</strong><br />
-    <img src="../images/avatar.jpg" alt="dirofmarketing" class="exec" /> 
+    <img src="../images/avatar.jpg" alt="director of marketing" class="exec" /> 
     <br /><em>Olivia Kwon</em>
   </div>
 </div>

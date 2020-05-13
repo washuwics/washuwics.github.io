@@ -9,16 +9,42 @@ description: Bolster. Support. Empower.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: ../images/wicsimg.png
 # Original link: https://raw.githubusercontent.com/washuwics/washuwics.github.io/master/images/wicsimg.png
+
+# Fill in exec member names and file paths to their pictures here (DEFAULT PATH is to the empty avatar image)
+    # Don't have to change the code to update positions!
+    # This assumes that the position names themselves will not be changing, just the people
+        # To change the positions themselves, make sure to update the lines below and corresponding code in ourteam.md
 exec:
   president:
-    name:
-    file_path:
+    name: Katie Lund
+    file_path: ../images/katielund.jpg
   internalvp: 
-    name:
-    file_path:
+    name: Julia Dai
+    file_path: ../images/juliadai.jpg
   externalvp: 
-    name:
-    file_path:
+    name: Rachana Reddy
+    file_path: ../images/rachanareddy.jpg
+  treasurer: 
+    name: Priyanka Iyer
+    file_path: ../images/priyankaiyer.png
+  dirofevents:
+    name: Katie Legan
+    file_path: ../images/katielegan.jpg
+  dirofprofdev:
+    name: Marissa Kalkar
+    file_path: ../images/marissakalkar.jpg
+  dirofcorprel:
+    name: Shruthi Ramalingam
+    file_path: ../images/shruthiramalingam.jpg
+  dirofcomm:
+    name: Deepthi Kailash
+    file_path: ../images/deepthikailash.jpg
+  dirofmark1:
+    name: Stephanie Chui
+    file_path: ../images/stephaniechui.jpg
+  dirofmark2:
+    name: Olivia Kwon
+    file_path: ../images/avatar.jpg
 #
 # Flags below are optional
 #
