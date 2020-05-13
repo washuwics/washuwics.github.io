@@ -1,5 +1,4 @@
-I"'
-<div class="row">
+I"æ<div class="row">
   <div class="column">
     <strong>President</strong><br />
     <img src="../images/katielund.jpg" alt="president" class="exec" />
@@ -33,8 +32,8 @@
   </div>
   <div class="column">
     <strong>Director of Professional Development</strong><br />
-    <img src="../images/juliadai.jpg" alt="dirofprofdev" class="exec" />
-    <br /><em>Julia Dai</em>
+    <img src="../images/marissakalkar.jpg" alt="dirofprofdev" class="exec" />
+    <br /><em>Marissa Kalkar</em>
   </div>
   <div class="column">
     <strong>Director of Corporate Relations</strong><br />
@@ -56,25 +55,8 @@
   </div>
   <div class="column">
     <strong>Co-Director of Marketing</strong><br />
-    <img src="" alt="dirofmarketing" class="exec" /> 
+    <img src="../images/avatar.jpg" alt="dirofmarketing" class="exec" /> 
     <br /><em>Olivia Kwon</em>
   </div>
 </div>
-
-<ul>
-  <li>President: Katie Lund</li>
-  <li>Internal Vice President: Julia Dai</li>
-  <li>External Vice President: Rachana Reddy</li>
-  <li>Treasurer/Director of Finance: Priyanka Iyer</li>
-  <li>Director of Events: Katie Legan</li>
-  <li>Director of Professional Development</li>
-  <li>Director of Corporate Relations: Shruthi Ramalingam</li>
-  <li>Director of Communications: Deepthi Kailash</li>
-  <li>Co-Director of Marketing: Stephanie Chui</li>
-  <li>Co-Director of Marketing: Olivia Kwon</li>
-</ul>
-
-<h3 id="contact-me">Contact me</h3>
-
-<p><a href="mailto:email@domain.com">email@domain.com</a></p>
 :ET

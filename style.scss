@@ -156,7 +156,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 25px;
-  background-color: rgb(253, 211, 218);
+  background-color: rgb(253, 231, 235);
 }
 
 .masthead {
@@ -293,12 +293,12 @@ footer {
 }
 
 
-img[class=exec] { height: 200px; width: 200px; margin-top: 1em;}
+img[class=exec] { height: 200px; width: 200px; margin-top: 1em; border-radius: 100%}
 .column {
   display: inline-block;
   font-size: 14px;
   text-align: center;
-  margin: 1em;
+  margin: 2em;
   strong {font-size: 13px; color: rgb(202, 104, 122);}
 }
 .row {

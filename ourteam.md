@@ -38,8 +38,8 @@ permalink: /ourteam/
   </div>
   <div class="column">
     <strong>Director of Professional Development</strong><br>
-    <img src="../images/avatar.png" alt='dirofprofdev' class='exec' />
-    <br><em>Julia Dai</em>
+    <img src="../images/marissakalkar.jpg" alt='dirofprofdev' class='exec' />
+    <br><em>Marissa Kalkar</em>
   </div>
   <div class="column">
     <strong>Director of Corporate Relations</strong><br>
@@ -61,7 +61,7 @@ permalink: /ourteam/
   </div>
   <div class="column">
     <strong>Co-Director of Marketing</strong><br>
-    <img src="../images/avatar.png" alt='dirofmarketing' class='exec' /> 
+    <img src="../images/avatar.jpg" alt='dirofmarketing' class='exec' /> 
     <br><em>Olivia Kwon</em>
   </div>
 </div>
