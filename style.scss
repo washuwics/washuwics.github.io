@@ -228,6 +228,7 @@ nav {
   @include mobile {
     float: none;
     margin-top: 9px;
+    margin-bottom: 5px;
     display: block;
     font-size: 16px;
   }
@@ -294,12 +295,13 @@ footer {
 
 
 img[class=exec] { height: 200px; width: 200px; margin-top: 1em; border-radius: 100%}
+img[class=links] { height: 150px; width: 250px; margin-top: 1em; border-radius: 10%}
 .column {
   display: inline-block;
   font-size: 14px;
   text-align: center;
   margin: 2em;
-  strong {font-size: 13px; color: rgb(202, 104, 122);}
+  strong {font-size: 14px; color: rgb(202, 104, 122);}
 }
 .row {
  text-align: center;
