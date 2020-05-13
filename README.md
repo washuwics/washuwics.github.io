@@ -6,13 +6,14 @@
 
 Enter your site name, description, avatar and many other options by editing the _config.yml file. Most of these "settings" are used as variables throughout the site so make sure they are up-to-date. 
 
-Making a change to _config.yml (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon. To view the changes locally, run the command `jekyll build`.
+Making a change to _config.yml (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon. To view the changes locally, run the command `jekyll build` and then `jekyll serve` (for this to work, follow all instructions under "Local Development" below).
 
 ## Adding Pages
 
 To add a new page, look at the existing pages for reference. Create a new .md (markdown) document in the repo folder and follow the proper heading format. Then, go into default.html and add a new line of code into the nav to account for the new page. 
 
-<!-- ### Step 3) Publish your first blog post
+
+<!-- MIGHT EDIT THIS LATER WHEN WE ADD EVENTS ### Step 3) Publish your first blog post
 
 Edit `/_posts/2014-3-3-Hello-World.md` to publish your first blog post. This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
 
