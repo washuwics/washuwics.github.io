@@ -9,7 +9,16 @@ description: Bolster. Support. Empower.
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: ../images/wicsimg.png
 # Original link: https://raw.githubusercontent.com/washuwics/washuwics.github.io/master/images/wicsimg.png
-
+exec:
+  president:
+    name:
+    file_path:
+  internalvp: 
+    name:
+    file_path:
+  externalvp: 
+    name:
+    file_path:
 #
 # Flags below are optional
 #
