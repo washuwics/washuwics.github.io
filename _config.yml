@@ -52,9 +52,9 @@ exec:
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: wics@su.wustl.edu
-  facebook: https://www.facebook.com/WashUWiCS
+  facebook: WashUWiCS
   github: washuwics/washuwics.github.io
-  instagram: https://www.instagram.com/washuwics/?hl=en
+  instagram: washuwics/?hl=en
   linkedin:
   rss: # just type anything here for a working RSS icon
   twitter:
