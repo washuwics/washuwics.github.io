@@ -4,40 +4,49 @@ title: Sponsors
 permalink: /sponsors/
 ---
 
-### Thank you to our 2018-2019 sponsors for their support! 
+### Thank you to our 2020-2021 Sponsors for their support! 
 #### Our sponsors enable us to provide professional and personal development opportunities to WashU students with an interest in technology.
 
 <div class="row">
   <div class="column">
-    <a href="https://www.cibotechnologies.com/"><img src="../images/cibo.jpg" alt='cibo_technologies' class='sponsor_card' /></a> 
-    <h4>CiBO Technologies</h4>
-    <h3 class="platinum">Platinum Sponsor</h3>
-  </div>
-  <div class="column">
-    <a href="https://www.mastercard.us"><img src="../images/mastercard.jpg" alt='mastercard' class='sponsor_card' /></a> 
-    <h4>Mastercard</h4>
+    <a href="https://www.lessannoyingcrm.com/"><img src="../images/lessannoyingcrm.png" alt='less_annoying_crm' class='sponsor_card' /></a> 
+    <h4>Less Annoying CRM</h4>
     <h3 class="gold">Gold Sponsor</h3>
   </div>
   <div class="column">
-    <a href="https://www.equifax.com"><img src="../images/equifax.jpg" alt='equifax' class='sponsor_card' /></a>
-    <h4>Equifax</h4>
+    <a href="https://www.imc.com/us/"><img src="../images/imctrading.png" alt='imc_trading' class='sponsor_card' /></a> 
+    <h4>IMC Trading</h4>
+    <h3 class="gold">Gold Sponsor</h3>
+  </div>
+</div>
+
+### 2019-2020 Sponsors
+
+<div class="row">
+  <div class="column">
+    <a href="https://www.google.com/"><img src="../images/google.jpg" alt='google' class='sponsor_card' /></a> 
+    <h4>Google</h4>
+    <h3 class="gold">Gold Sponsor</h3>
+  </div>
+  <div class="column">
+    <a href="https://www.att.com/"><img src="../images/at&t.png" alt='AT&T' class='sponsor_card' /></a> 
+    <h4>AT&T</h4>
+    <h3 class="gold">Gold Sponsor</h3>
+  </div>
+  <div class="column">
+    <a href="https://www.lessannoyingcrm.com/"><img src="../images/lessannoyingcrm.png" alt='less_annoying_crm' class='sponsor_card' /></a> 
+    <h4>Less Annoying CRM</h4>
     <h3 class="gold">Gold Sponsor</h3>
   </div>
 </div>
 <div class="row">
   <div class="column">
-    <a href="https://www.google.com/"><img src="../images/google.jpg" alt='google' class='sponsor_card' /></a> 
-    <h4>Google</h4>
-    <h3 class="silver">Silver Sponsor</h3>
   </div>
   <div class="column">
-    <a href="https://www.att.com/"><img src="../images/at&t.png" alt='AT&T' class='sponsor_card' /></a> 
-    <h4>AT&T</h4>
-    <h3 class="silver">Silver Sponsor</h3>
+    <a href="https://www.capitalone.com/"><img src="../images/capitalone.jpg" alt='capital_one' class='sponsor_card' /></a> 
+    <h4>Capital One</h4>
+    <h3 class="gold">Gold Sponsor</h3>
   </div>
   <div class="column">
-    <a href="https://www.lessannoyingcrm.com/"><img src="../images/lessannoyingcrm.png" alt='less_annoying_crm' class='sponsor_card' /></a> 
-    <h4>Less Annoying CRM</h4>
-    <h3 class="bronze">Bronze Sponsor</h3>
   </div>
 </div>
