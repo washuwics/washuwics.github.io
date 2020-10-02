@@ -18,6 +18,16 @@ permalink: /sponsors/
     <h4>IMC Trading</h4>
     <h3 class="gold">Gold Sponsor</h3>
   </div>
+  <div class="column">
+    <a href="https://www.capitalone.com/"><img src="../images/capitalone.jpg" alt='capital_one' class='sponsor_card' /></a> 
+    <h4>Capital One</h4>
+    <h3 class="gold">Gold Sponsor</h3>
+  </div>
+  <div class="column">
+    <a href="https://www.exegy.com/"><img src="../images/cexegy.jpeg" alt='exegy' class='sponsor_card' /></a> 
+    <h4>Exegy</h4>
+    <h3 class="gold">Gold Sponsor</h3>
+  </div>
 </div>
 
 ### 2019-2020 Sponsors
