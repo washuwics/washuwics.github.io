@@ -26,7 +26,7 @@ permalink: /sponsors/
 </div>
 <div class="row">
   <div class="column">
-    <a href="https://www.exegy.com/"><img src="../images/exegy.jpeg" alt='exegy' class='sponsor_card' /></a> 
+    <a href="https://www.exegy.com/"><img src="../images/exegy.png" alt='exegy' class='sponsor_card' /></a> 
     <h4>Exegy</h4>
     <h3 class="gold">Gold Sponsor</h3>
   </div>
