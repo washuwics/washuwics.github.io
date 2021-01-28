@@ -30,6 +30,11 @@ permalink: /sponsors/
     <h4>Exegy</h4>
     <h3 class="gold">Gold Sponsor</h3>
   </div>
+  <div class="column">
+    <a href="https://squareup.com/us/en"><img src="../images/square.png" alt='square' class='sponsor_card' /></a> 
+    <h4>Square</h4>
+    <h3 class="silver">Silver Sponsor</h3>
+  </div>
 </div>
 
 ### 2019-2020 Sponsors
