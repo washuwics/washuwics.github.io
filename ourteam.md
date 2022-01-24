@@ -10,6 +10,11 @@ permalink: /ourteam/
     <img src="{{ site.exec.president.file_path }}" alt='president' class='exec' />
     <br><em>{{ site.exec.president.name }}</em>
   </div>
+  <div class="column">
+    <strong>External Vice President</strong><br>
+    <img src="{{ site.exec.externalvp.file_path }}" alt='externalvp' class='exec' />
+    <br><em>{{ site.exec.externalvp.name }}</em>
+  </div>
 </div>
 
 <div class="row">
@@ -28,11 +33,6 @@ permalink: /ourteam/
     <img src="{{ site.exec.internalcoord.file_path }}" alt='internalcoord' class='exec' />
     <br><em>{{ site.exec.internalcoord.name }}</em>
   </div>
-  <div class="column">
-    <strong>External Vice President</strong><br>
-    <img src="{{ site.exec.externalvp.file_path }}" alt='externalvp' class='exec' />
-    <br><em>{{ site.exec.externalvp.name }}</em>
-  </div>
 </div>
 
 <div class="row">
@@ -45,6 +45,11 @@ permalink: /ourteam/
     <strong>Vice-Director of Finance</strong><br>
     <img src="{{ site.exec.vicetreasurer.file_path }}" alt='treasurer' class='exec' /> 
     <br><em>{{ site.exec.vicetreasurer.name }}</em>
+  </div>
+  <div class="column">
+    <strong>Director of Communications</strong><br>
+    <img src="{{ site.exec.dirofcomm.file_path }}" alt='director of communications' class='exec' /> 
+    <br><em>{{ site.exec.dirofcomm.name }}</em>
   </div>
 </div>
 
@@ -67,11 +72,6 @@ permalink: /ourteam/
 </div>
 
 <div class="row">
-  <div class="column">
-    <strong>Director of Communications</strong><br>
-    <img src="{{ site.exec.dirofcomm.file_path }}" alt='director of communications' class='exec' /> 
-    <br><em>{{ site.exec.dirofcomm.name }}</em>
-  </div>
   <div class="column">
     <strong>Director of Social Media</strong><br>
     <img src="{{ site.exec.dirofsoc.file_path }}" alt='director of social media' class='exec' /> 
