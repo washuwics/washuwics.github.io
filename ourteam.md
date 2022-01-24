@@ -60,7 +60,7 @@ permalink: /ourteam/
     <br><em>{{ site.exec.dirofevents.name }}</em>
   </div>
   <div class="column">
-    <strong>Director of Professional Development</strong><br>
+    <strong>Director of Prof. Development</strong><br>
     <img src="{{ site.exec.dirofprofdev.file_path }}" alt='director of professional development' class='exec' />
     <br><em>{{ site.exec.dirofprofdev.name }}</em>
   </div>
