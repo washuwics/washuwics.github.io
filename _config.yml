@@ -32,16 +32,16 @@ exec:
     file_path: ../images/deepthikailash.jpg
   treasurer: 
     name: Olivia Kwon
-    file_path: ../images/avatar.jpg
+    file_path: ../images/oliviakwon.png
   vicetreasurer:
     name: Michelle Kwan
-    file_path: ../images/avatar.jpg
+    file_path: ../images/michellekwan.png
   dirofevents:
     name: Coming Soon :) 
     file_path: ../images/avatar.jpg
   dirofprofdev:
     name: Meredith Lang
-    file_path: ../images/avatar.jpg
+    file_path: ../images/meredithlang.png
   dirofcorprel:
     name: Sneha Goddu
     file_path: ../images/sneha.jpeg
