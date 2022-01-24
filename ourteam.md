@@ -14,7 +14,17 @@ permalink: /ourteam/
 
 <div class="row">
   <div class="column">
-    <strong>Internal Vice President</strong><br>
+    <strong>Co-Internal Vice President</strong><br>
+    <img src="{{ site.exec.internalvp.file_path }}" alt='internalvp' class='exec' />
+    <br><em>{{ site.exec.internalvp.name }}</em>
+  </div>
+  <div class="column">
+    <strong>Co-Internal Vice President</strong><br>
+    <img src="{{ site.exec.internalvp.file_path }}" alt='internalvp' class='exec' />
+    <br><em>{{ site.exec.internalvp.name }}</em>
+  </div>
+  <div class="column">
+    <strong>Internal Exec Coordinator</strong><br>
     <img src="{{ site.exec.internalvp.file_path }}" alt='internalvp' class='exec' />
     <br><em>{{ site.exec.internalvp.name }}</em>
   </div>
@@ -23,8 +33,16 @@ permalink: /ourteam/
     <img src="{{ site.exec.externalvp.file_path }}" alt='externalvp' class='exec' />
     <br><em>{{ site.exec.externalvp.name }}</em>
   </div>
+</div>
+
+<div class="row">
   <div class="column">
     <strong>Director of Finance</strong><br>
+    <img src="{{ site.exec.treasurer.file_path }}" alt='treasurer' class='exec' /> 
+    <br><em>{{ site.exec.treasurer.name }}</em>
+  </div>
+  <div class="column">
+    <strong>Vice-Director of Finance</strong><br>
     <img src="{{ site.exec.treasurer.file_path }}" alt='treasurer' class='exec' /> 
     <br><em>{{ site.exec.treasurer.name }}</em>
   </div>
