@@ -32,10 +32,10 @@ exec:
     file_path: ../images/deepthikailash.jpg
   treasurer: 
     name: Olivia Kwon
-    file_path: ../images/avatar.png
+    file_path: ../images/avatar.jpg
   vicetreasurer:
     name: Michelle Kwan
-    file_path: ../images/avatar.png
+    file_path: ../images/avatar.jpg
   dirofevents:
     name: Coming Soon :) 
     file_path: ../images/avatar.jpg
@@ -50,7 +50,7 @@ exec:
     file_path: ../images/soniadias.jpg
   dirofsoc:
     name: Victoria Cheung
-    file_path: ../images/victoriacheung.jpg
+    file_path: ../images/victoriacheung.JPG
   dirofmark1:
     name: Annika Petrikin
     file_path: ../images/avatar.jpg
