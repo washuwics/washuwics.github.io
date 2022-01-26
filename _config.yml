@@ -41,7 +41,7 @@ exec:
     file_path: ../images/avatar.jpg
   dirofprofdev:
     name: Meredith Lang
-    file_path: ../images/meredithlang.png
+    file_path: ../images/meredithlang.jpg
   dirofcorprel:
     name: Sneha Goddu
     file_path: ../images/sneha.jpeg
