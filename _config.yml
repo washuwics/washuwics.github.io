@@ -11,51 +11,51 @@ avatar: ../images/wicsimg.png
 # Original link: https://raw.githubusercontent.com/washuwics/washuwics.github.io/master/images/wicsimg.png
 
 # Fill in exec member names and file paths to their pictures here (DEFAULT PATH is to the empty avatar image)
-    # Don't have to change the code to update positions!
-    # This assumes that the position names themselves will not be changing, just the people
-        # To change the positions themselves, make sure to update the lines below and corresponding code in ourteam.md
+# Don't have to change the code to update positions!
+# This assumes that the position names themselves will not be changing, just the people
+# To change the positions themselves, make sure to update the lines below and corresponding code in ourteam.md
 exec:
   president:
-    name: Katie Lund
-    file_path: ../images/katielund.jpg
-  internalvp1:
-    name: Katie Legan
-    file_path: ../images/katielegan.jpg
-  internalvp2:
-    name: Skylar Fong
-    file_path: ../images/avatar.jpg
-  internalcoord: 
-    name: Julia Dai
-    file_path: ../images/juliadai.jpg
-  externalvp: 
-    name: Deepthi Kailash
-    file_path: ../images/deepthikailash.jpg
-  treasurer: 
-    name: Olivia Kwon
-    file_path: ../images/oliviakwon.png
-  vicetreasurer:
-    name: Michelle Kwan
-    file_path: ../images/michellekwan.png
-  dirofevents:
-    name: Coming Soon :) 
-    file_path: ../images/avatar.jpg
-  dirofprofdev:
-    name: Meredith Lang
-    file_path: ../images/meredithlang.jpg
-  dirofcorprel:
-    name: Sneha Goddu
-    file_path: ../images/sneha.jpeg
-  dirofcomm:
     name: Sonia Dias
     file_path: ../images/soniadias.jpg
-  dirofsoc:
+  internalvp:
+    name: Annabel Rose
+    file_path: ../images/avatar.jpg
+  externalvp:
     name: Victoria Cheung
     file_path: ../images/victoriacheung.JPG
-  dirofmark1:
+  treasurer:
+    name: Michelle Kwan
+    file_path: ../images/michellekwan.png
+  marketingvp:
+    name: Lia Seo
+    file_path: ../images/avatar.jpg
+  dirofcorprel1:
+    name: Kaitlyn Wang
+    file_path: ../images/avatar.jpg
+  dirofcorprel2:
+    name: Sunny Yuan
+    file_path: ../images/avatar.jpg
+  dirofcomm:
+    name: Jeongwon Lee
+    file_path: ../images/avatar.jpg
+  dirofsoc:
+    name: Jessica Chen
+    file_path: ../images/avatar.jpg
+  dirofprof:
+    name: Mythri Sekar
+    file_path: ../images/avatar.jpg
+  dirofdesign1:
+    name: Molly Busis
+    file_path: ../images/avatar.jpg
+  dirofdesign2:
     name: Annika Petrikin
     file_path: ../images/avatar.jpg
-  dirofmark2:
-    name: Molly Busis
+  dirofevents:
+    name: Maxanne Anderson
+    file_path: ../images/avatar.jpg
+  freshmanrep:
+    name: Sanya Ajmani
     file_path: ../images/avatar.jpg
 #
 # Flags below are optional
@@ -112,7 +112,7 @@ kramdown:
   syntax_highlighter: rouge
   syntax_highlighter_opts:
     # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    css_class: "highlight"
 
 # Set the Sass partials directory, as we're using @imports
 sass:
