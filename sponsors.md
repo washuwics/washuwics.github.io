@@ -4,9 +4,23 @@ title: Sponsors
 permalink: /sponsors/
 ---
 
-### Thank you to our 2020-2021 Sponsors for their support! 
+### Thank you to our 2023-2024 Sponsors for their support! 
 #### Our sponsors enable us to provide professional and personal development opportunities to WashU students with an interest in technology.
+<div class="row">
+  <div class="column">
+    <a href="https://www.lessannoyingcrm.com/"><img src="../images/lessannoyingcrm.png" alt='less_annoying_crm' class='sponsor_card' /></a> 
+    <h4>Less Annoying CRM</h4>
+    <h3 class="gold">Gold Sponsor</h3>
+  </div>
+  <div class="column">
+    <a href="https://www.spectrum.com/"><img src="../images/spectrum.png" alt='spectrum' class='sponsor_card' /></a> 
+    <h4>Spectrum</h4>
+    <h3 class="gold">Gold Sponsor</h3>
+  </div>
+</div>
 
+
+### 2020-2022 Sponsors
 <div class="row">
   <div class="column">
     <a href="https://www.lessannoyingcrm.com/"><img src="../images/lessannoyingcrm.png" alt='less_annoying_crm' class='sponsor_card' /></a> 
