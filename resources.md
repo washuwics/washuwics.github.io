@@ -3,7 +3,7 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-### Grace Hopper Celebration 2020
+### Grace Hopper Celebration 2023
 #### GHC Application!
 
 - The Grace Hopper Celebration (GHC) is a conference designed to bring the research and career interests of women in technology into the spotlight and is the largest gathering of women in computing. The conference consists of a combination of technical sessions and career sessions that fosters mentorship as well as networking. 
