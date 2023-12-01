@@ -24,7 +24,6 @@ permalink: /resources/
 
 <div class="row">
   <div class="column">  
-    <strong>Grace Hopper Celebration 2023 Resources</strong>
     <img src="../images/GHC1.jpeg" alt='internalvp' class='links'/>
   </div>
 </div>

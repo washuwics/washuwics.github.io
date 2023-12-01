@@ -20,7 +20,7 @@ permalink: /sponsors/
 </div>
 
 
-### 2020-2022 Sponsors
+### 2021-2022 Sponsors
 <div class="row">
   <div class="column">
     <a href="https://www.lessannoyingcrm.com/"><img src="../images/lessannoyingcrm.png" alt='less_annoying_crm' class='sponsor_card' /></a> 
