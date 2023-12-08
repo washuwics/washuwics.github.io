@@ -20,7 +20,7 @@ exec:
     file_path: ../images/soniadias.jpg
   internalvp:
     name: Annabel Rose
-    file_path: ../images/avatar.jpg
+    file_path: ../images/annabelrose.jpg
   externalvp:
     name: Victoria Cheung
     file_path: ../images/victoriacheung.JPG
@@ -32,7 +32,7 @@ exec:
     file_path: ../images/avatar.jpg
   dirofcorprel1:
     name: Kaitlyn Wang
-    file_path: ../images/avatar.jpg
+    file_path: ../images/kaitlynwang.jpg
   dirofcorprel2:
     name: Sunny Yuan
     file_path: ../images/avatar.jpg
