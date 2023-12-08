@@ -4,14 +4,6 @@ title: Executive Board
 permalink: /ourteam/
 ---
 
-<style>
-  .exec {
-    max-width: 100%; 
-    height: auto;   
-  }
-
-  
-</style>
 <div class="row">
   <div class="column">
     <strong>President</strong><br>
