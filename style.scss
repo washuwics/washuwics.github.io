@@ -296,7 +296,7 @@ footer {
 }
 
 //Image Grids on Home Page and Our Team page
-img[class=exec] { height: 200px; width: 200px; object-fit: cover; margin-top: 1em; border-radius: 100%}
+img[class=exec] { height: auto; width: 200px; object-fit: cover; margin-top: 1em; border-radius: 100%}
 img[class=links] { height: 150px; width: 250px; margin-top: 1em; border-radius: 10%}
 .column {
   display: inline-block;

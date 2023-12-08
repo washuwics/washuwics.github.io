@@ -32,7 +32,7 @@ exec:
     file_path: ../images/avatar.jpg
   dirofcorprel1:
     name: Kaitlyn Wang
-    file_path: ../images/kaitlynwang.jpg
+    file_path: ../images/kaitlynwang.png
   dirofcorprel2:
     name: Sunny Yuan
     file_path: ../images/avatar.jpg
